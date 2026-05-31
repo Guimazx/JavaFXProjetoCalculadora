@@ -1,4 +1,5 @@
 # JavaFXProjetoCalculadora
+# Calculadora básica feita em javafx
 Um dos meus primeiros projetos utilizando Java e JavaFX foi o desenvolvimento de uma calculadora básica, capaz de executar as quatro operações matemáticas fundamentais entre dois valores:
 
 - Soma
